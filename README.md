@@ -1,5 +1,6 @@
-# 💫 About Me:
- i am passonail software engeenier and also a frontend developer , oracle database,widos app usinf .net framwork c# ,languages c++,python,computer networking. all these concepts are i have . give a fully professional readme contac for my profils
+# 👋 Hi there! I'm Abdul Rehman
+ - A passionate Software Engineer and versatile developer with a strong foundation in core programming, databases, and modern application development. I enjoy building efficient, user-friendly, and scalable software solutions.
+
 
 
 ## 🌐 Socials:
