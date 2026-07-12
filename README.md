@@ -8,34 +8,31 @@
 
 <br/>
 
-![Computer Science](https://img.shields.io/badge/Computer%20Science-Final%20Year-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/Computer%20Science-Final%20Year-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/TechWithAbdul"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdulrehman90/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ar5431980@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/TechWithAbdul"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=TechWithAbdul&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/TechWithAbdul?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github" />
+<img src="https://img.shields.io/github/stars/TechWithAbdul?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TechWithAbdul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman90/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar5431980@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechWithAbdul)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TechWithAbdul&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/TechWithAbdul?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/TechWithAbdul?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github)
-
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧠 About Me
 
-<div align="center">
 <table>
 <tr>
-<td>
+<td width="820">
 
 I'm a **final-year Computer Science undergraduate** and **software engineer** with a strong foundation in **AI/ML systems, full-stack development, and distributed computing**. I approach engineering with a **product mindset** — I don't just write code, I design systems that solve real problems for real people.
 
@@ -46,52 +43,57 @@ I'm currently leading the AI/ML track of a four-person **Final Year Project** te
 </td>
 </tr>
 </table>
-</div>
 
-**🎯 Open To:**
+**🎯 Open To**
 
-![AI Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-Roles-4C1D95?style=flat-square&logo=tensorflow&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Engineering-5B21B6?style=flat-square&logo=react&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Development-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
-![Research](https://img.shields.io/badge/Research-Collaboration-7C3AED?style=flat-square&logo=openaigym&logoColor=white)
-![Internships](https://img.shields.io/badge/Internships-2026-8B5CF6?style=flat-square&logo=briefcase&logoColor=white)
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-Roles-4C1D95?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-Engineering-5B21B6?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Development-6D28D9?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Collaboration-7C3AED?style=flat-square&logo=openaigym&logoColor=white" />
+<img src="https://img.shields.io/badge/Internships-2026-8B5CF6?style=flat-square&logo=briefcase&logoColor=white" />
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,csharp,js,ts,java,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark" />
+
+<br/><br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" />
+
+<br/><br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,dotnet,mongodb,postgres,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb&theme=dark" />
 
-**AI / ML & Data**
+<br/><br/>
+
+**AI / ML**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,render,linux,postman&theme=dark" />
+**Tooling & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,kaggle,postman&theme=dark" />
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤖 AI / ML Expertise
 
-<div align="center">
-
 | Domain | Proficiency | Details |
-|---|:---:|---|
+|:---|:---:|:---|
 | **Deep Learning (CV)** | ⭐⭐⭐⭐☆ | U-Net segmentation architectures, transfer learning (VGG16), ensemble modeling |
 | **Explainable AI** | ⭐⭐⭐⭐☆ | Grad-CAM implementation for model interpretability on medical imaging |
 | **LLM / GenAI Systems** | ⭐⭐⭐⭐☆ | Gemini API integration, prompt engineering, conversational AI assistants |
@@ -99,13 +101,11 @@ I'm currently leading the AI/ML track of a four-person **Final Year Project** te
 | **Model Training Infra** | ⭐⭐⭐⭐☆ | Kaggle/Colab pipelines, checkpoint recovery, multi-candidate path resolution |
 | **Data Engineering** | ⭐⭐⭐⭐☆ | Dataset alignment, preprocessing pipelines, pandas/numpy workflows |
 
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Featured Projects
+
+</div>
 
 <details>
 <summary><b>🕌 DeenStream AI — Full-Stack Islamic Content Platform</b></summary>
@@ -114,7 +114,7 @@ I'm currently leading the AI/ML track of a four-person **Final Year Project** te
 A production-grade Islamic knowledge platform combining structured content delivery with an AI-powered assistant — built independently end-to-end.
 
 | Category | Details |
-|---|---|
+|:---|:---|
 | **Stack** | FastAPI, Vite + React, Gemini API, REST architecture |
 | **Scale** | Quran reader, Hadith browser, Prayer Times, Duas, 99 Names of Allah, AI Chat |
 | **Performance** | Async FastAPI endpoints, optimized client-side rendering via Vite |
@@ -133,7 +133,7 @@ Architected a decoupled frontend/backend system where the FastAPI service handle
 A medical imaging pipeline for automated lung segmentation from chest X-rays, combining ensemble deep learning with explainability.
 
 | Category | Details |
-|---|---|
+|:---|:---|
 | **Stack** | Python, TensorFlow/Keras, U-Net, VGG16 Transfer Learning, Kaggle Notebooks |
 | **Scale** | Dual-architecture ensemble (Baseline U-Net + VGG16 U-Net) on chest X-ray dataset |
 | **Performance** | Three-tier history recovery, conditional retraining, shape-assertion validation |
@@ -152,7 +152,7 @@ Engineered a resilient training pipeline to survive Kaggle session resets, inclu
 A two-phase compiler front-end built from first principles for a loop-statement subset of a programming language.
 
 | Category | Details |
-|---|---|
+|:---|:---|
 | **Stack** | Python, Deterministic Finite Automata, LR(0) Automaton, SLR Parsing |
 | **Scale** | 21-state minimized DFA, 10-production CFG, full FIRST/FOLLOW/ACTION-GOTO tables |
 | **Performance** | Stack-based shift-reduce parsing validated against 7 test cases |
@@ -171,7 +171,7 @@ Built a minimized DFA-based lexer with a 2D transition table, then extended it i
 A parallel and distributed computing implementation of Dijkstra's algorithm for routing convergence, targeting large-scale graph performance.
 
 | Category | Details |
-|---|---|
+|:---|:---|
 | **Stack** | C/C++, MPI, Parallel Algorithms |
 | **Scale** | Distributed shortest-path computation across multiple compute nodes |
 | **Performance** | Reduced convergence time via message-passing parallelization |
@@ -183,11 +183,16 @@ Designed and proposed an MPI-based parallelization strategy for Dijkstra's algor
 
 </details>
 
-<br/>
+<div align="center">
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💼 Experience
+
+<table>
+<tr>
+<td width="820">
 
 **AI/ML Engineer — Final Year Project Team**
 `Final Year Project · 2025 — Present`
@@ -199,122 +204,86 @@ Leading the AI/ML architecture track within a four-person cross-functional engin
 - Designed system for free-tier cloud deployment (Vercel/Render) at near-zero cost
 - Evaluated project concepts against supervisor demonstrability and competition criteria (Imagine Cup, Google Solution Challenge, MIT Solve)
 
-`LangChain` `LangGraph` `FastAPI` `MongoDB` `React` `RAG` `Team Leadership`
-
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Team%20Leadership-8B5CF6?style=flat-square&logo=googlemeet&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 Achievements
 
-<div align="center">
-
 | Recognition | Details |
-|---|---|
+|:---|:---|
 | 🎓 Final Year Project Lead | Leading AI/ML architecture for a 4-member cross-functional engineering team |
 | 🧩 Independent Full-Stack Build | Designed and shipped DeenStream AI end-to-end, solo |
 | 🩺 Applied Deep Learning Research | Built ensemble U-Net + XAI pipeline for medical image segmentation |
 | ⚙️ Compiler Theory Implementation | Built lexer + SLR parser from scratch without parser generators |
 
-</div>
-
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 📜 Certifications
-
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<sub>Badges shown reflect certification tracks in progress/completed — update links to point to individual credential verification pages.</sub>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💻 Coding Profiles
 
-<div align="center">
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+<br/><br/>
 
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Analytics
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TechWithAbdul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9&count_private=true&include_all_commits=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWithAbdul&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAbdul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9&langs_count=10" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAbdul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9&langs_count=10" width="55%" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏅 GitHub Trophies
 
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=TechWithAbdul&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithAbdul&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E0AAFF" width="95%" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/TechWithAbdul/TechWithAbdul/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 Current Focus
+
+</div>
 
 ```yaml
 current_focus:
@@ -324,7 +293,7 @@ current_focus:
     - "System design for scalable backend services"
 
   building:
-    - "Final Year Project: AI-powered social-impact platform"
+    - "Final Year Project: AI-powered agentic platform"
     - "DeenStream AI — full-stack Islamic content platform"
 
   exploring:
@@ -339,26 +308,18 @@ current_focus:
     - "Internships — 2026"
 ```
 
-<br/>
+<div align="center">
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📬 Connect With Me
 
-<div align="center">
+<a href="mailto:ar5431980@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdulrehman90/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/TechWithAbdul"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/TechWithAbdul"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar5431980@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman90/)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechWithAbdul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TechWithAbdul)
-
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<div align="center">
+<br/><br/>
 
 *"Code is the closest thing we have to magic — write it with intention."*
 
