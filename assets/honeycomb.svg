@@ -1,0 +1,58 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="hexGlow" cx="50%" cy="50%" r="65%">
+    <stop offset="0%" stop-color="#1c1730"/>
+    <stop offset="100%" stop-color="#0A0A10"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="650" fill="url(#hexGlow)"/>
+<text x="600" y="46" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="6" fill="#8A7B4E">THE HIVE — CORE STACK</text>
+<polygon points="650.2,291.0 650.2,349.0 600.0,378.0 549.8,349.0 549.8,291.0 600.0,262.0" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="0.00s" repeatCount="indefinite"/>
+</polygon>
+<text x="600.0" y="325.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">Python</text>
+<polygon points="757.6,244.5 757.6,302.5 707.4,331.5 657.2,302.5 657.2,244.5 707.4,215.5" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="0.22s" repeatCount="indefinite"/>
+</polygon>
+<text x="707.4" y="278.5" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">C/C++</text>
+<polygon points="757.6,337.5 757.6,395.5 707.4,424.5 657.2,395.5 657.2,337.5 707.4,308.5" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="0.44s" repeatCount="indefinite"/>
+</polygon>
+<text x="707.4" y="371.5" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">JS · TS</text>
+<polygon points="865.0,198.0 865.0,256.0 814.8,285.0 764.5,256.0 764.5,198.0 814.8,169.0" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="0.66s" repeatCount="indefinite"/>
+</polygon>
+<text x="814.8" y="232.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">React</text>
+<polygon points="650.2,384.0 650.2,442.0 600.0,471.0 549.8,442.0 549.8,384.0 600.0,355.0" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="0.88s" repeatCount="indefinite"/>
+</polygon>
+<text x="600.0" y="418.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">Vite</text>
+<polygon points="757.6,430.5 757.6,488.5 707.4,517.5 657.2,488.5 657.2,430.5 707.4,401.5" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="1.10s" repeatCount="indefinite"/>
+</polygon>
+<text x="707.4" y="464.5" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">FastAPI</text>
+<polygon points="542.8,430.5 542.8,488.5 492.6,517.5 442.4,488.5 442.4,430.5 492.6,401.5" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="1.32s" repeatCount="indefinite"/>
+</polygon>
+<text x="492.6" y="464.5" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">Node.js</text>
+<polygon points="542.8,337.5 542.8,395.5 492.6,424.5 442.4,395.5 442.4,337.5 492.6,308.5" fill="#141026" stroke="#9D8CD6" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="1.54s" repeatCount="indefinite"/>
+</polygon>
+<text x="492.6" y="371.5" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">MongoDB</text>
+<polygon points="542.8,244.5 542.8,302.5 492.6,331.5 442.4,302.5 442.4,244.5 492.6,215.5" fill="#141026" stroke="#9D8CD6" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="1.76s" repeatCount="indefinite"/>
+</polygon>
+<text x="492.6" y="278.5" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">PyTorch</text>
+<polygon points="435.5,291.0 435.5,349.0 385.2,378.0 335.0,349.0 335.0,291.0 385.2,262.0" fill="#141026" stroke="#9D8CD6" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="1.98s" repeatCount="indefinite"/>
+</polygon>
+<text x="385.2" y="325.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">TensorFlow</text>
+<polygon points="435.5,384.0 435.5,442.0 385.2,471.0 335.0,442.0 335.0,384.0 385.2,355.0" fill="#141026" stroke="#9D8CD6" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="2.20s" repeatCount="indefinite"/>
+</polygon>
+<text x="385.2" y="418.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">LangChain</text>
+<polygon points="865.0,291.0 865.0,349.0 814.8,378.0 764.5,349.0 764.5,291.0 814.8,262.0" fill="#141026" stroke="#8A7B4E" stroke-width="1.6" opacity="0.95">
+  <animate attributeName="opacity" values="0.95;0.55;0.95" dur="3.4s" begin="2.42s" repeatCount="indefinite"/>
+</polygon>
+<text x="814.8" y="325.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#EDEAE3">Git/GitHub</text>
+</svg>
