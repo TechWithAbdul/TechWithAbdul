@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Abdul Rehman — AI/ML Engineer, Full-Stack Developer"/>
+<img src="assets/hero.svg" width="100%" alt="Abdul Rehman"/>
 
 </div>
 
 <br/>
 
 <p align="center">
-<i>I don't just want a repo people scroll past. I want one that makes them stop, read,<br/>
-and remember the name before they remember the resume.</i>
+<i>Every good profile has a hook. Mine has one that moves.</i>
 </p>
 
 <p align="center">
-Final-year Computer Science engineer who moves fluently between <b>applied AI research</b><br/>
-and <b>production full-stack engineering</b> — shipping platforms solo, training models with<br/>
-defensible results, and building the theory underneath (compilers, distributed systems)<br/>
-by hand, not by tutorial.
+Final-year Computer Science engineer working across <b>applied AI</b> and <b>full-stack product engineering</b> —<br/>
+shipping platforms solo, training models with defensible results, and building the theory<br/>
+underneath (compilers, distributed systems) by hand, not by tutorial.
 </p>
 
 <br/>
@@ -26,21 +24,27 @@ by hand, not by tutorial.
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
-<img src="assets/constellation.svg" width="100%" alt="Skill constellation map"/>
+<img src="assets/divider.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="assets/meters.svg" width="100%" alt="Proficiency signal"/>
+<img src="assets/honeycomb.svg" width="100%" alt="Core stack — honeycomb grid"/>
 </div>
 
-<br/><br/>
+<br/>
 
-<h3 align="center">◆ &nbsp; Selected Work &nbsp; ◆</h3>
+<div align="center">
+<img src="assets/divider.svg" width="100%"/>
+</div>
+
+<br/>
+
+<h3 align="center">Selected Work</h3>
 
 <br/>
 
@@ -86,12 +90,12 @@ A master-worker MPI implementation of Dijkstra's algorithm, built to study routi
 <br/>
 
 <div align="center">
-<img src="assets/divider.svg" width="60%"/>
+<img src="assets/divider.svg" width="100%"/>
 </div>
 
 <br/>
 
-<h3 align="center">◆ &nbsp; Experience &nbsp; ◆</h3>
+<h3 align="center">Experience</h3>
 
 <br/>
 
@@ -111,12 +115,12 @@ not a one-off demo.
 <br/>
 
 <div align="center">
-<img src="assets/divider.svg" width="60%"/>
+<img src="assets/divider.svg" width="100%"/>
 </div>
 
 <br/>
 
-<h3 align="center">◆ &nbsp; GitHub Signal &nbsp; ◆</h3>
+<h3 align="center">GitHub Signal</h3>
 
 <div align="center">
 
@@ -132,12 +136,30 @@ not a one-off demo.
 <br/>
 
 <div align="center">
-<img src="assets/divider.svg" width="60%"/>
+<img src="assets/divider.svg" width="100%"/>
 </div>
 
 <br/>
 
-<h3 align="center">◆ &nbsp; Let's Connect &nbsp; ◆</h3>
+<h3 align="center">The Trail Was Real</h3>
+
+<p align="center"><sub>every green square below is one it actually crawled through</sub></p>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TechWithAbdul/TechWithAbdul/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%"/>
+</div>
+
+<br/>
+
+<h3 align="center">Let's Connect</h3>
 
 <div align="center">
 
