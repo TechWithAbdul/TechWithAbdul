@@ -1,23 +1,23 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0A0A10"/>
-      <stop offset="55%" stop-color="#121018"/>
+      <stop offset="55%" stop-color="#141026"/>
       <stop offset="100%" stop-color="#0A0A10"/>
     </linearGradient>
-    <linearGradient id="goldGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8A7B4E"/>
-      <stop offset="50%" stop-color="#E8D5A8"/>
-      <stop offset="100%" stop-color="#8A7B4E"/>
+    <linearGradient id="snakeGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5B4F80"/>
+      <stop offset="100%" stop-color="#C9A961"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="220" fill="url(#bgGrad2)"/>
+  <rect width="1200" height="260" fill="url(#bgGrad2)"/>
 
-  <line x1="450" y1="70" x2="750" y2="70" stroke="url(#goldGrad2)" stroke-width="1"/>
-  <rect x="596" y="66" width="8" height="8" transform="rotate(45 600 70)" fill="#E8D5A8"/>
+  <path d="M 606.0,90.0 L 606.2,90.7 L 606.3,91.3 L 606.4,92.1 L 606.3,92.8 L 606.2,93.6 L 606.0,94.4 L 605.7,95.1 L 605.3,95.9 L 604.8,96.6 L 604.2,97.2 L 603.5,97.9 L 602.7,98.4 L 601.9,98.9 L 601.0,99.3 L 600.0,99.5 L 599.0,99.7 L 597.9,99.8 L 596.8,99.7 L 595.7,99.6 L 594.6,99.3 L 593.6,98.9 L 592.5,98.3 L 591.5,97.6 L 590.6,96.9 L 589.7,96.0 L 588.9,94.9 L 588.2,93.8 L 587.7,92.6 L 587.2,91.3 L 586.9,90.0 L 586.8,88.6 L 586.7,87.2 L 586.9,85.7 L 587.2,84.3 L 587.6,82.9 L 588.3,81.5 L 589.0,80.1 L 590.0,78.9 L 591.1,77.7 L 592.3,76.6 L 593.6,75.7 L 595.1,74.9 L 596.6,74.2 L 598.3,73.7 L 600.0,73.4 L 601.8,73.2 L 603.6,73.3 L 605.4,73.5 L 607.1,73.9 L 608.9,74.6 L 610.6,75.4 L 612.2,76.4 L 613.8,77.6 L 615.2,79.0 L 616.4,80.5 L 617.6,82.2 L 618.5,84.0 L 619.3,85.9 L 619.8,87.9 L 620.2,90.0 L 620.3,92.1 L 620.2,94.3 L 619.9,96.5 L 619.3,98.6 L 618.5,100.7 L 617.5,102.7 L 616.2,104.6 L 614.8,106.4 L 613.1,108.0 L 611.3,109.5 L 609.3,110.8 L 607.1,111.9 L 604.8,112.7 L 602.5,113.3 L 600.0,113.7 L 597.5,113.8 L 595.0,113.7 L 592.5,113.2 L 590.0,112.5 L 587.6,111.6 L 585.2,110.3 L 583.0,108.8 L 581.0,107.1 L 579.1,105.2 L 577.4,103.0 L 576.0,100.7 L 574.8,98.2 L 573.8,95.6 L 573.1,92.8 L 572.8,90.0 L 572.7,87.1 L 572.9,84.2 L 573.4,81.4 L 574.2,78.5 L 575.4,75.8 L 576.8,73.2 L 578.5,70.7 L 580.5,68.3 L 582.7,66.2 L 585.2,64.4 L 587.9,62.7 L 590.7,61.4 L 593.7,60.3 L 596.8,59.6 L 600.0,59.2 L 603.2,59.1 L 606.5,59.4 L 609.7,60.0 L 612.9,61.0 L 616.0,62.3 L 618.9,63.9 L 621.7,65.9 L 624.3,68.1 L 626.6,70.7 L 628.7,73.4 L 630.5,76.4 L 632.0,79.6 L 633.1,83.0 L 633.9,86.4 L 634.3,90.0 L 634.4,93.6 L 634.0,97.2 L 633.3,100.8 L 632.2,104.3 L 630.8,107.8 L 628.9,111.0 L 626.7,114.1 L 624.2,116.9 L 621.4,119.5 L 618.3,121.8 L 615.0,123.7 L 611.5,125.3 L 607.8,126.6 L 603.9,127.4 L 600.0,127.9 L 596.0,127.9 L 592.0,127.5 L 588.1,126.7 L 584.2,125.5 L 580.5,123.8 L 576.9,121.8 L 573.6,119.4 L 570.4,116.6 L 567.6,113.5" fill="none" stroke="url(#snakeGradF)" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="600" cy="90" r="4" fill="#0A0A10">
+    <animate attributeName="opacity" values="1;0.15;1" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
 
-  <text x="600" y="130" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#EDEAE3">Built with intention. Designed to be read, not scrolled past.</text>
-
-  <text x="600" y="175" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4" fill="#6E6C78">ABDUL REHMAN  ·  GITHUB.COM/TECHWITHABDUL</text>
+  <text x="600" y="165" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="21" fill="#EDEAE3">The trail was real the whole time.</text>
+  <text x="600" y="196" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4" fill="#6E6C78">ABDUL REHMAN  ·  GITHUB.COM/TECHWITHABDUL</text>
 </svg>
