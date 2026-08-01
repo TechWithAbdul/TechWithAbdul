@@ -109,8 +109,8 @@ A master-worker MPI implementation of Dijkstra's algorithm, built to study routi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechWithAbdul&show_icons=true&hide_border=true&bg_color=07080B&title_color=38E1D8&icon_color=38E1D8&text_color=E7ECF3&border_radius=8&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAbdul&layout=compact&hide_border=true&bg_color=07080B&title_color=38E1D8&text_color=E7ECF3&border_radius=8&langs_count=8" width="40%" />
+<img src="https://img.shields.io/github/followers/TechWithAbdul?style=for-the-badge&logo=github&logoColor=38E1D8&color=07080B&labelColor=07080B" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTechWithAbdul&label=Public%20Repos&query=%24.public_repos&color=07080B&style=for-the-badge&logo=github&logoColor=38E1D8&labelColor=07080B" />
 
 <br/><br/>
 
