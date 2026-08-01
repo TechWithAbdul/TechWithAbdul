@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="Abdul Rehman — AI/ML Engineer, Full-Stack Developer"/>
+<img src="hero.svg" width="100%" alt="Abdul Rehman — Full-Stack Web Developer, pursuing AI Engineering"/>
 
 </div>
 
@@ -9,16 +9,10 @@
 <h3 align="center"><code>$ cat about.md</code></h3>
 
 <p align="center">
-I'm a final-year Computer Science student who treats coursework as a starting point, not the destination.<br/>
-What began as core CS theory — data structures, algorithms, systems — has grown into shipping<br/>
-real software: full-stack platforms, deep learning pipelines, and a compiler built by hand.
-</p>
-
-<p align="center">
-Right now I'm leading the <b>AI/ML architecture</b> for a four-person Final Year Project team, building an<br/>
-agentic, RAG-powered platform designed to actually be deployed — not just demoed and forgotten.<br/>
-I care about the same thing whether I'm training a model or shipping a frontend: does it hold up<br/>
-when a real person uses it.<img src="cursor.svg" width="8" align="top"/>
+Full-Stack Web Developer, currently pursuing AI Engineering.<br/>
+Final-year Computer Science student who treats coursework as a starting point, not the destination —<br/>
+what began as core CS theory has grown into shipping real software: full-stack platforms,<br/>
+deep learning pipelines, and a compiler built by hand.<img src="cursor.svg" width="8" align="top"/>
 </p>
 
 <div align="center">
@@ -70,7 +64,7 @@ when a real person uses it.<img src="cursor.svg" width="8" align="top"/>
 <br/>
 
 **🕌 DeenStream AI** &nbsp; <sub>`STATUS: DEPLOYED SOLO`</sub>
-Full-stack Islamic content platform — architected and shipped end-to-end. FastAPI backend serving Quran, Hadith, prayer times, and a Gemini-powered AI assistant, behind a custom-designed React + Vite frontend.
+Full-stack Islamic content platform — architected and shipped end-to-end by me. FastAPI backend serving Quran, Hadith, prayer times, and a Gemini-powered AI assistant, behind a custom-designed React + Vite frontend.
 `FastAPI` `React` `Vite` `Gemini API`
 
 **🫁 Lung Segmentation & XAI** &nbsp; <sub>`STATUS: DICE 0.9381`</sub>
@@ -89,27 +83,6 @@ A master-worker MPI implementation of Dijkstra's algorithm, built to study routi
 
 <p align="center"><sub>// ─────────────────────────────────────────────────────────────────── //</sub></p>
 
-<h3 align="center"><code>$ cat experience.log</code></h3>
-
-<br/>
-
-<p align="center">
-<b>AI/ML Lead</b> · Final Year Project · <i>2025 — Present</i><br/>
-Leading the AI/ML architecture for a four-person engineering team, building an agentic,<br/>
-RAG-powered platform on LangChain and LangGraph — engineered for real deployment,<br/>
-not a one-off demo.
-</p>
-
-<div align="center">
-
-`LangChain` `LangGraph` `FastAPI` `MongoDB` `React`
-
-</div>
-
-<br/>
-
-<p align="center"><sub>// ─────────────────────────────────────────────────────────────────── //</sub></p>
-
 <h3 align="center"><code>$ crontab -l</code></h3>
 
 <br/>
@@ -119,7 +92,7 @@ not a one-off demo.
 */1 * * * *   study    agentic-ai langgraph-orchestration rag-architectures
 
 # ┌─ building ─────────────────────────────────────────────
-*/1 * * * *   ship     fyp-agentic-platform deenstream-ai
+*/1 * * * *   ship     deenstream-ai
 
 # ┌─ exploring ────────────────────────────────────────────
 @daily        research explainable-ai distributed-systems
@@ -153,7 +126,9 @@ not a one-off demo.
 
 <div align="center">
 
-[Email](mailto:ar5431980@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulrehman90/) &nbsp;·&nbsp; [GitHub](https://github.com/TechWithAbdul)
+<a href="mailto:ar5431980@gmail.com"><img src="https://img.shields.io/badge/Gmail-07080B?style=for-the-badge&logo=gmail&logoColor=38E1D8" /></a>
+<a href="https://www.linkedin.com/in/abdulrehman90/"><img src="https://img.shields.io/badge/LinkedIn-07080B?style=for-the-badge&logo=linkedin&logoColor=38E1D8" /></a>
+<a href="https://github.com/TechWithAbdul"><img src="https://img.shields.io/badge/GitHub-07080B?style=for-the-badge&logo=github&logoColor=38E1D8" /></a>
 
 </div>
 
