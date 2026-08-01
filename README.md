@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Abdul Rehman"/>
+<img src="assets/hero.svg" width="100%" alt="Abdul Rehman — AI/ML Engineer, Full-Stack Developer"/>
 
 </div>
 
 <br/>
 
+<h3 align="center">About</h3>
+
 <p align="center">
-<i>Every good profile has a hook. Mine has one that moves.</i>
+I'm a final-year Computer Science student who treats coursework as a starting point, not the destination.<br/>
+What began as core CS theory — data structures, algorithms, systems — has grown into shipping<br/>
+real software: full-stack platforms, deep learning pipelines, and a compiler built by hand.
 </p>
 
 <p align="center">
-Final-year Computer Science engineer working across <b>applied AI</b> and <b>full-stack product engineering</b> —<br/>
-shipping platforms solo, training models with defensible results, and building the theory<br/>
-underneath (compilers, distributed systems) by hand, not by tutorial.
+Right now I'm leading the <b>AI/ML architecture</b> for a four-person Final Year Project team, building an<br/>
+agentic, RAG-powered platform designed to actually be deployed — not just demoed and forgotten.<br/>
+I care about the same thing whether I'm training a model or shipping a frontend: does it hold up<br/>
+when a real person uses it.
 </p>
-
-<br/>
 
 <div align="center">
 
@@ -26,81 +29,68 @@ underneath (compilers, distributed systems) by hand, not by tutorial.
 
 <br/>
 
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<br/>
+
+<p align="center"><sub><b>LANGUAGES</b></sub></p>
 <div align="center">
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark" />
 </div>
 
 <br/>
 
+<p align="center"><sub><b>FULL-STACK</b></sub></p>
 <div align="center">
-<img src="assets/honeycomb.svg" width="100%" alt="Core stack — honeycomb grid"/>
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs,tailwind,html,css&theme=dark" />
 </div>
 
 <br/>
 
+<p align="center"><sub><b>AI / ML</b></sub></p>
 <div align="center">
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas&theme=dark" />
 </div>
 
 <br/>
+
+<p align="center"><sub><b>DATA &amp; TOOLING</b></sub></p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,postman&theme=dark" />
+</div>
+
+<br/>
+
+---
 
 <h3 align="center">Selected Work</h3>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🕌 DeenStream AI**
-Full-stack Islamic content platform — architected and shipped solo. FastAPI backend serving Quran, Hadith, prayer times, duas and a Gemini-powered AI assistant, behind a custom-designed React + Vite frontend.
-
+**🕌 DeenStream AI** — Full-stack Islamic content platform, architected and shipped solo. FastAPI backend serving Quran, Hadith, prayer times, and a Gemini-powered AI assistant, behind a custom-designed React + Vite frontend.
 `FastAPI` `React` `Vite` `Gemini API`
 
-</td>
-<td width="50%" valign="top">
-
-**🫁 Lung Segmentation & XAI**
-Ensemble deep learning for chest X-ray segmentation — U-Net + VGG16 transfer learning, made interpretable with Grad-CAM. Best Dice score: **0.9381**.
-
+**🫁 Lung Segmentation & XAI** — Ensemble deep learning (U-Net + VGG16 transfer learning) for chest X-ray segmentation, made interpretable with Grad-CAM. Best Dice score: **0.9381**.
 `TensorFlow` `Keras` `U-Net` `Grad-CAM`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔁 SLR Parser & Lexer**
-A compiler front-end built from first principles — 21-state minimized DFA lexer feeding a hand-built SLR parser, full FIRST/FOLLOW sets and LR(0) automaton, zero parser generators.
-
+**🔁 SLR Parser & Lexer** — A compiler front-end built from first principles: 21-state minimized DFA lexer feeding a hand-built SLR parser, full FIRST/FOLLOW sets and LR(0) automaton, zero parser generators.
 `Python` `Automata Theory` `Compiler Design`
 
-</td>
-<td width="50%" valign="top">
-
-**⚡ MPI Parallel Dijkstra**
-A master-worker MPI implementation of Dijkstra's algorithm, built to study routing convergence across large distributed network graphs.
-
+**⚡ MPI Parallel Dijkstra** — A master-worker MPI implementation of Dijkstra's algorithm, built to study routing convergence across large distributed network graphs.
 `C/C++` `MPI` `Distributed Systems`
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<div align="center">
-<img src="assets/divider.svg" width="100%"/>
-</div>
-
-<br/>
+---
 
 <h3 align="center">Experience</h3>
 
 <br/>
 
 <p align="center">
-<b>AI/ML Lead</b> · Final Year Project · <i>2025 — Present</i><br/><br/>
+<b>AI/ML Lead</b> · Final Year Project · <i>2025 — Present</i><br/>
 Leading the AI/ML architecture for a four-person engineering team, building an agentic,<br/>
 RAG-powered platform on LangChain and LangGraph — engineered for real deployment,<br/>
 not a one-off demo.
@@ -114,50 +104,20 @@ not a one-off demo.
 
 <br/>
 
-<div align="center">
-<img src="assets/divider.svg" width="100%"/>
-</div>
+---
 
-<br/>
-
-<h3 align="center">GitHub Signal</h3>
+<h3 align="center">GitHub</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechWithAbdul&show_icons=true&hide_border=true&bg_color=0A0A10&title_color=E8D5A8&icon_color=9D8CD6&text_color=C9C9C9&border_radius=10&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAbdul&layout=compact&hide_border=true&bg_color=0A0A10&title_color=E8D5A8&text_color=C9C9C9&border_radius=10&langs_count=8" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWithAbdul&hide_border=true&background=0A0A10&stroke=8A7B4E&ring=E8D5A8&fire=C9A961&currStreakLabel=E8D5A8&border_radius=10" width="65%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TechWithAbdul&show_icons=true&hide_border=true&bg_color=07080B&title_color=38E1D8&icon_color=38E1D8&text_color=E7ECF3&border_radius=8&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAbdul&layout=compact&hide_border=true&bg_color=07080B&title_color=38E1D8&text_color=E7ECF3&border_radius=8&langs_count=8" width="40%" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="assets/divider.svg" width="100%"/>
-</div>
-
-<br/>
-
-<h3 align="center">The Trail Was Real</h3>
-
-<p align="center"><sub>every green square below is one it actually crawled through</sub></p>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TechWithAbdul/TechWithAbdul/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="assets/divider.svg" width="100%"/>
-</div>
-
-<br/>
+---
 
 <h3 align="center">Let's Connect</h3>
 
@@ -165,10 +125,4 @@ not a one-off demo.
 
 [Email](mailto:ar5431980@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulrehman90/) &nbsp;·&nbsp; [GitHub](https://github.com/TechWithAbdul)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="assets/footer.svg" width="100%"/>
 </div>
