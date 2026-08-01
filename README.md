@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Abdul Rehman — AI/ML Engineer, Full-Stack Developer"/>
+<img src="hero.svg" width="100%" alt="Abdul Rehman — AI/ML Engineer, Full-Stack Developer"/>
 
 </div>
 
@@ -18,7 +18,7 @@ real software: full-stack platforms, deep learning pipelines, and a compiler bui
 Right now I'm leading the <b>AI/ML architecture</b> for a four-person Final Year Project team, building an<br/>
 agentic, RAG-powered platform designed to actually be deployed — not just demoed and forgotten.<br/>
 I care about the same thing whether I'm training a model or shipping a frontend: does it hold up<br/>
-when a real person uses it.<img src="assets/cursor.svg" width="8" align="top"/>
+when a real person uses it.<img src="cursor.svg" width="8" align="top"/>
 </p>
 
 <div align="center">
